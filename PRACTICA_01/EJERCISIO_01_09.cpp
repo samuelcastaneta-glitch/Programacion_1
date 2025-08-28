@@ -12,7 +12,7 @@ using namespace std;
 int main() {
     int edad;
     cout << "Edad: "; cin >> edad;
-    if (edad <= 12) cout << "Nino\n";// Jaja aqui hay un herror usted dijo no  e n ya save no existo en prograacion son castaneta con ya save  caractes especial
+    if (edad <= 12) cout << "Nino\n";// Jaja aqui hay un herror usted dijo no  e n ya save no existo en prograacion soy castaneta con ya save  caractes especial
     else if (edad <= 18) cout << "Adolescente\n";
     else if (edad < 60) cout << "Mayor de edad\n";
     else cout << "Adulto mayor\n";
